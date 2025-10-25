@@ -64,7 +64,7 @@ I’m passionate about **UI/UX design**, **aesthetic interfaces**, and writing *
 
 ### ☕ Let’s Connect!
 <p align="center">
-  <a href="https://github.com/Mercy-Too"><img src="https://img.shields.io/badge/GitHub-Mercy--Too-ffb6c1?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="[https://github.com/Mercy-Too"><img src="https://img.shields.io/badge/GitHub-Mercy--Too-ffb6c1?style=for-the-badge&logo=github&logoColor=white](https://github.com/M-TOO)"/></a>
   <a href="https://www.linkedin.com/in/mercy-too/"><img src="https://img.shields.io/badge/LinkedIn-Mercy_Too-f472b6?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
