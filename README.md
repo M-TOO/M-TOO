@@ -23,11 +23,14 @@
 
 ### 🌷 About Me
 
-Hi there! I’m **Mercy Too** 🌼 — a passionate *Informatics & Computer Science student* at **Strathmore University (BICS)**.  
-I adore building **beautiful, functional systems** that make life easier and more meaningful 🌍💻  
+Hi there! I’m **Mercy Too** 🌼 — an *Informatics & Computer Science student* at **Strathmore University (BICS)**.  
+I’m passionate about **UI/UX design**, **aesthetic interfaces**, and writing **clean, elegant code** that both *works beautifully and looks beautiful* 🎨💻  
 
-✨ *Curiosity, creativity, and clean code* are my favorite things!  
-💡 Currently building **SU Feeds**, a Java-based app that helps students share feedback with ease.  
+✨ *I believe design isn’t just how it looks — it’s how it feels to use.*  
+💡 Currently working on:
+- 🛠️ **Spare Parts Market System** — a PHP-based platform for dealers and customers.  
+- 🗞️ **French & English Magazine Project** — showcasing creativity through bilingual storytelling.  
+
 🌸 “Code with empathy, design with purpose.”  
 
 ---
@@ -44,10 +47,10 @@ I adore building **beautiful, functional systems** that make life easier and mor
 ---
 
 ### 🌸 What I’m Currently Working On
-- 🧠 **SU Feeds Project** — JavaFX + MySQL student feedback app.  
-- 🎨 Designing soft, aesthetic frontends with **HTML**, **CSS**, and **Figma**.  
-- 💬 Learning more about **UI/UX** and intuitive app design.  
-- 🌱 Growing into a confident **Java & Web Developer**.  
+- 🧠 **Spare Parts Market System** — Laravel + MySQL web app for automotive dealers.  
+- 🎨 Crafting soft, intuitive **UI/UX** layouts with Figma.  
+- 💬 Creating a bilingual **French & English magazine**.  
+- 🌱 Exploring how design meets technology in meaningful ways.  
 
 ---
 
