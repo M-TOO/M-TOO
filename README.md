@@ -54,20 +54,24 @@ I’m passionate about **UI/UX design**, **aesthetic interfaces**, and writing *
 
 ---
 
-### 🌼 Fun Facts & Inspirations
-✨ *A peek into what inspires me and keeps my creativity flowing...*  
+### 🌼 Inspiration Corner
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Handlee&size=24&duration=3500&pause=800&color=F472B6&center=true&vCenter=true&width=700&lines=%22Simplicity+is+the+ultimate+sophistication.%22;Design+is+where+logic+meets+emotion.;Create+with+heart,+code+with+purpose.;Beauty+begins+with+clarity.;Let+your+ideas+bloom+into+reality.%22" alt="Inspiration Typing" />
+</p>
 
-🌷 **Favourite quote:**  
-> “Simplicity is the ultimate sophistication.” — *Leonardo da Vinci*  
+---
 
-💻 **Coding mood:**  
-> Lo-fi beats, a warm cup of tea, and lines of pastel-themed code ☕🎶  
+### 🌸 My Mood Board
+<p align="center">
+  <img src="https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif" width="160" />
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="160" />
+  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="160" />
+  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="160" />
+</p>
 
-🎨 **Design motto:**  
-> “If it doesn’t make you smile, redesign it.” 💖  
-
-🪄 **Dream project:**  
-> Building an interactive learning platform that makes coding feel like art 🌈  
+<p align="center">
+  🌷 *Colors, creativity, and calm — that’s my happy place.* 🌸  
+</p>
 
 ---
 
