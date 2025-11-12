@@ -54,18 +54,28 @@ I’m passionate about **UI/UX design**, **aesthetic interfaces**, and writing *
 
 ---
 
-### 💫 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mercy-Too&show_icons=true&theme=rose_pine&hide_border=true&count_private=true" alt="Mercy's GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mercy-Too&theme=rose_pine&hide_border=true" alt="GitHub Streak" height="165" />
-</p>
+### 🌼 Fun Facts & Inspirations
+✨ *A peek into what inspires me and keeps my creativity flowing...*  
+
+🌷 **Favourite quote:**  
+> “Simplicity is the ultimate sophistication.” — *Leonardo da Vinci*  
+
+💻 **Coding mood:**  
+> Lo-fi beats, a warm cup of tea, and lines of pastel-themed code ☕🎶  
+
+🎨 **Design motto:**  
+> “If it doesn’t make you smile, redesign it.” 💖  
+
+🪄 **Dream project:**  
+> Building an interactive learning platform that makes coding feel like art 🌈  
 
 ---
 
 ### ☕ Let’s Connect!
 <p align="center">
-  <a href="[https://github.com/Mercy-Too"><img src="https://img.shields.io/badge/GitHub-Mercy--Too-ffb6c1?style=for-the-badge&logo=github&logoColor=white](https://github.com/M-TOO)"/></a>
-  <a href="https://www.linkedin.com/in/mercy-too/"><img src="https://img.shields.io/badge/LinkedIn-Mercy_Too-f472b6?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Mercy-Too">
+    <img src="https://img.shields.io/badge/GitHub-Mercy--Too-ffb6c1?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">
